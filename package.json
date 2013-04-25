@@ -1,0 +1,19 @@
+{
+  "name": "insertify",
+  "version": "0.0.1",
+  "description": "dumb string insertion util",
+  "main": "insertify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/btford/insertify.git"
+  },
+  "keywords": [
+    "string"
+  ],
+  "author": "Brian Ford",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
